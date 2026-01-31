@@ -1,0 +1,10 @@
+Deep Reconnaissance and Information Gathering for backpack.exchange
+Install Selenium and ChromeDriver for Spidering
+Manual Web Spidering for backpack.exchange with Selenium and Rate Limiting
+Automated Vulnerability Scan with Nikto on backpack.exchange (Dihentikan)
+Analyze Nikto Scan Results for backpack.exchange
+Probe backpack.exchange Subdomains for Access Controls (Method/Header Tampering) and Detailed Response Capture
+Analyze Response Details for Information Leakage
+Directory and Endpoint Brute-Forcing for backpack.exchange Subdomains
+Perform Enhanced Nmap Scan for Unsecure Ports and Vulnerabilities on backpack.exchange
+Analyze Enhanced Nmap Scan Results for backpack.exchange
